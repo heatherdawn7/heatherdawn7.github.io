@@ -6,6 +6,21 @@ h1 {
   text-align:center;
 }
 
+h4 {
+   Font-weight: Bold;
+  font-size: 18px;
+  font-family:Trebuchet, helvetica;
+  font-style:normal;
+  text-align:center;
+}
+
+h2 {
+   Font-weight: Bold;
+  font-size: 16px;
+  font-family:Trebuchet, helvetica;
+  font-style:normal;
+  text-align:left;
+}
 
 
 
