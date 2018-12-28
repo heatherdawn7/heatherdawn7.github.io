@@ -1,6 +1,6 @@
 h1 {
   Font-weight: Bold;
-  font-size: 24px;
+  font-size: 48px;
   font-family:Trebuchet, helvetica;
   font-style:normal;
   text-align:center;
@@ -8,7 +8,7 @@ h1 {
 
 h4 {
    Font-weight: Bold;
-  font-size: 18px;
+  font-size: 24px;
   font-family:Trebuchet, helvetica;
   font-style:normal;
   text-align:center;
@@ -16,7 +16,7 @@ h4 {
 
 h2 {
    Font-weight: Bold;
-  font-size: 16px;
+  font-size: 20px;
   font-family:Trebuchet, helvetica;
   font-style:normal;
   text-align:left;
