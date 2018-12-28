@@ -3,8 +3,12 @@ h1 {
   font-size: 16pt;
   font-family Montserrat; helvetica;
   font-style:normal;
+  text-align: center;
+  
 }
 
+  <h1 style="text-align:center">Heather Stone</h1>
+  <h4 style="text-align:center">2250 E Deer Valley Rd #45 
 
 p {
   font-family: Montserrat; Times New Roman;
